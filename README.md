@@ -1,6 +1,6 @@
 # 🌐 Responsive Bootstrap Website
 
-This project is a responsive, modern website built using **HTML5**, **Bootstrap 5**, and **custom CSS**. It features a clean design, animated sections, and reusable components — perfect for landing pages, service-based businesses, or startups.
+This project is a responsive, modern landing page built using **HTML5**, **Bootstrap 5**, and **custom CSS**. It features a clean design, animated sections, and reusable components — perfect for landing pages, service-based businesses, or startups.
 
 ## 🚀 Live Demo
 
